@@ -34,14 +34,17 @@ Following searches for all the sites that is in the domain yahoo.com
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/1a565023-f2fc-4dd3-b800-9837e89637ff)
+
 filetype: This operator allows you to search for files of a specific type. For example, "filetype:pdf" would search for all PDF files. Following searches for pdf file in the domain yahoo.com
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/9fb2a276-24fd-4848-93ed-dd55ef31e37c)
+
 intext: This operator allows you to search for pages that contain specific text within the body of the page. For example, "intext:password" would search for pages that contain the word "password" within the body of the page.
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/b336f9db-ab71-437a-beca-18689efa7f5b)
+
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 
 ## OUTPUT:
@@ -50,17 +53,21 @@ intitle: This operator allows you to search for pages that contain specific text
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/df610fb7-c456-4b96-8b20-67d0b6e34075)
+
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/3cbb2d4c-15e1-44e6-97d0-c353d11e5e8d)
+
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/d13b1637-cdfc-40ed-aaf3-e7a327e300a3)
 
 ## DNS Enumeration
+
 ## DNS Recon
+
 provides the ability to perform: Check all NS records for zone transfers Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT) Perform common SRV Record Enumeration Top level domain expansion
 
 ## OUTPUT:
